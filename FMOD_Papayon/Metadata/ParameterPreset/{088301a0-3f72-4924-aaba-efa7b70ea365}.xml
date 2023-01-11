@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{088301a0-3f72-4924-aaba-efa7b70ea365}">
+		<property name="name">
+			<value>Bird</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f09445d7-4f3b-49e0-8482-7e2c4d803da0}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b47147a6-5fcc-40c4-ade0-8c040fcbe7aa}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b47147a6-5fcc-40c4-ade0-8c040fcbe7aa}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>1</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+	</object>
+</objects>
