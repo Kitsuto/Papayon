@@ -5,7 +5,7 @@
 			<value>Green Light 1</value>
 		</property>
 		<property name="assetPath">
-			<value>SFX/SFX_OS_STRINGHIT_1-Group.wav</value>
+			<value>SFX/SFX_OS_STRINGHIT_1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

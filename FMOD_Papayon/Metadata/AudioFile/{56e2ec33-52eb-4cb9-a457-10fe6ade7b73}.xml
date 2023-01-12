@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{1f3ebc94-7e3a-4549-ac67-c66e48a351bb}">
+	<object class="AudioFile" id="{56e2ec33-52eb-4cb9-a457-10fe6ade7b73}">
 		<property name="color">
-			<value>Green Light 1</value>
+			<value>Blue Light 1</value>
 		</property>
 		<property name="assetPath">
-			<value>SFX/SFX_OS_STRINGHIT_2.wav</value>
+			<value>Musics/Piano1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -14,7 +17,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.140625</value>
+			<value>177.240375</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>
