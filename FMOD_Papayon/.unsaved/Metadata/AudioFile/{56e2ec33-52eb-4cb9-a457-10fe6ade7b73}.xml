@@ -4,9 +4,7 @@
 		<property name="color">
 			<value>Blue Light 1</value>
 		</property>
-		<property name="assetPath">
-			<value>Musics/Piano1.wav</value>
-		</property>
+		<property name="assetPath" />
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
