@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{dcd24b1a-f1e6-4d7d-baa4-548966809b52}">
+		<property name="assetPath">
+			<value>SFX/BugsNet/Hit/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>
+		</relationship>
+	</object>
+</objects>

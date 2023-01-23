@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{02964574-d7ef-4e7a-ad11-54b14de6b210}">
-		<property name="color">
-			<value>Green Light 1</value>
-		</property>
+	<object class="AudioFile" id="{dac8af6b-be06-48e3-af0a-fe17f94d154c}">
 		<property name="assetPath">
-			<value>SFX/BugsNet/Hit/SFX_OS_STRINGHIT_4.wav</value>
+			<value>Musics/Piano/PianoB.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.140625</value>
+			<value>13.324666666666667</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>
