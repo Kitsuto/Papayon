@@ -22,15 +22,15 @@ class UFMODAudioComponent;
 #endif
 #define FMODSTUDIO_FMODBlueprintStatics_generated_h
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_28_GENERATED_BODY \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_28_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODEventInstance_Statics; \
 	FMODSTUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> FMODSTUDIO_API UScriptStruct* StaticStruct<struct FFMODEventInstance>();
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_SPARSE_DATA
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_RPC_WRAPPERS \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_SPARSE_DATA
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetLocale); \
 	DECLARE_FUNCTION(execMixerResume); \
@@ -74,7 +74,7 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<struct FFMODEventInstance>
 	DECLARE_FUNCTION(execPlayEvent2D);
 
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetLocale); \
 	DECLARE_FUNCTION(execMixerResume); \
@@ -118,7 +118,7 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<struct FFMODEventInstance>
 	DECLARE_FUNCTION(execPlayEvent2D);
 
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_INCLASS_NO_PURE_DECLS \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUFMODBlueprintStatics(); \
 	friend struct Z_Construct_UClass_UFMODBlueprintStatics_Statics; \
@@ -127,7 +127,7 @@ public: \
 	DECLARE_SERIALIZER(UFMODBlueprintStatics)
 
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_INCLASS \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_INCLASS \
 private: \
 	static void StaticRegisterNativesUFMODBlueprintStatics(); \
 	friend struct Z_Construct_UClass_UFMODBlueprintStatics_Statics; \
@@ -136,7 +136,7 @@ public: \
 	DECLARE_SERIALIZER(UFMODBlueprintStatics)
 
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_STANDARD_CONSTRUCTORS \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFMODBlueprintStatics(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFMODBlueprintStatics) \
@@ -149,7 +149,7 @@ private: \
 public:
 
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_ENHANCED_CONSTRUCTORS \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFMODBlueprintStatics(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -162,25 +162,25 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFMODBlueprintStatics)
 
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_40_PROLOG
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_GENERATED_BODY_LEGACY \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_40_PROLOG
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_SPARSE_DATA \
-	FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_RPC_WRAPPERS \
-	FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_INCLASS \
-	FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_STANDARD_CONSTRUCTORS \
+	FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_SPARSE_DATA \
+	FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_RPC_WRAPPERS \
+	FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_INCLASS \
+	FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_GENERATED_BODY \
+#define FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_SPARSE_DATA \
-	FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_INCLASS_NO_PURE_DECLS \
-	FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_ENHANCED_CONSTRUCTORS \
+	FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_SPARSE_DATA \
+	FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_INCLASS_NO_PURE_DECLS \
+	FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h_43_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class FMODBlueprintStatics."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -188,7 +188,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> FMODSTUDIO_API UClass* StaticClass<class UFMODBlueprintStatics>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Samicorne_Game_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h
+#define CURRENT_FILE_ID FID_Papayon_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODBlueprintStatics_h
 
 
 #define FOREACH_ENUM_EFMOD_STUDIO_STOP_MODE(op) \
