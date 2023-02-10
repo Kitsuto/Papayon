@@ -1,6 +1,6 @@
 #include "FMODAssetBuilder.h"
 
-#include "AssetRegistryModule.h"
+#include "AssetRegistry/AssetRegistryModule.h"
 #include "FMODAssetLookup.h"
 #include "FMODAssetTable.h"
 #include "FMODBank.h"
@@ -646,7 +646,7 @@ void FFMODAssetBuilder::DeleteAssets(TArray<UObject*>& AssetsToDelete)
     }
 
     // Use ObjectTools to delete assets - ObjectTools::DeleteObjects handles confirmation, source control, and making read only files writables
-    ObjectTools::DeleteObjects(ObjectsToDelete, true);
+    ObjectTools::DeleteObjects(ObjectsToDelete, !IsRunningCommandlet());
 }
 
 #undef LOCTEXT_NAMESPACE
