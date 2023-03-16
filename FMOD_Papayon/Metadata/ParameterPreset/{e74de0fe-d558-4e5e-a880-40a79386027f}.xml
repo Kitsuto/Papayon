@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{e74de0fe-d558-4e5e-a880-40a79386027f}">
+		<property name="name">
+			<value>Swarm</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f09445d7-4f3b-49e0-8482-7e2c4d803da0}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1cf92d30-c342-49e2-ab83-60fcd2f84d47}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1cf92d30-c342-49e2-ab83-60fcd2f84d47}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

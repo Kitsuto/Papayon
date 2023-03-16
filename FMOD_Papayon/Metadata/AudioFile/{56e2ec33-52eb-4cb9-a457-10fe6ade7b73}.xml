@@ -5,7 +5,7 @@
 			<value>Blue Light 1</value>
 		</property>
 		<property name="assetPath">
-			<value>Musics/Piano/Piano1.wav</value>
+			<value>MUSICS/Piano/Piano1.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
