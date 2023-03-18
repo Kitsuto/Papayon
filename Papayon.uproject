@@ -25,6 +25,10 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "GraphNUnrealPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
