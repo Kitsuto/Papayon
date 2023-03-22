@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="EncodableAsset" id="{f34ef31d-5484-46ab-bcf1-050dab219e5a}">
 		<property name="assetPath">
-			<value>Animals/Flies swarm/</value>
+			<value>AMB/Animals/Flies swarm/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>
