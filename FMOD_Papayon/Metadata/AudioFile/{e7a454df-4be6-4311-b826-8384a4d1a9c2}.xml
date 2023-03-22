@@ -5,7 +5,7 @@
 			<value>Cyan Light 1</value>
 		</property>
 		<property name="assetPath">
-			<value>Ambiants/SFX_LP_BIRDSAMB.wav</value>
+			<value>AMB/Ambiants/SFX_LP_BIRDSAMB.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

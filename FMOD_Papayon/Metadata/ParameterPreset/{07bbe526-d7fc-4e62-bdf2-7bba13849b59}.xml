@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{07bbe526-d7fc-4e62-bdf2-7bba13849b59}">
+		<property name="name">
+			<value>AMBBirds</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f09445d7-4f3b-49e0-8482-7e2c4d803da0}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2d35b83f-da0c-44b5-a917-66d379909823}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2d35b83f-da0c-44b5-a917-66d379909823}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
