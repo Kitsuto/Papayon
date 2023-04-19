@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ad5f1ab2-9fde-4f28-8fe7-6587eebcc7dc}">
+		<property name="assetPath">
+			<value>SFX/sad party horn - sound effect.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5209166666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>
+		</relationship>
+	</object>
+</objects>
