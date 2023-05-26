@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="EncodableAsset" id="{70fff6a9-e489-4594-989b-e93edb0e92a0}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="assetPath">
-			<value>SFX/BugsNet/</value>
+			<value>PLAYER/NETSWEEP/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>

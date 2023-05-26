@@ -2,16 +2,16 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{688bea46-3902-42dc-896c-7fe7bea1f2a1}">
 		<property name="color">
-			<value>Cyan Light 1</value>
+			<value>Purple</value>
 		</property>
 		<property name="name">
-			<value>Ambiant</value>
+			<value>AMB V1</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{22f18c05-9394-4848-971b-3326c120c72d}</destination>
+			<destination>{d0a90706-b265-484f-8d7d-88fba1166b79}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{00886f07-0f8f-42a6-8e9a-e9a2d665c7cb}</destination>

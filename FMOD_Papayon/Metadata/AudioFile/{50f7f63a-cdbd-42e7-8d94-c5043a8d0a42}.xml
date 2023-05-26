@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{50f7f63a-cdbd-42e7-8d94-c5043a8d0a42}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="assetPath">
-			<value>AMB/Animals/Flies swarm/Bzz Swarm.wav</value>
+			<value>ANIMALS/FLIES/Bzz Swarm.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

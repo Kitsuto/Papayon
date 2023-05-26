@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{e52b8e20-afa3-4a32-a876-8e0ff5a3371c}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<property name="name">
-			<value>Watercourse</value>
+			<value>AMB_WATERCOURSE</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{b857473c-a24b-48f9-a556-97fb4951270c}</destination>
+			<destination>{d0a90706-b265-484f-8d7d-88fba1166b79}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{c4616038-c137-4de2-9cd9-751ad92ded58}</destination>
@@ -30,6 +33,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{d962c13c-76ae-41ed-a9da-382a10fffebc}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{5ebef3a5-bc18-4ee7-97ba-e908262bb870}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{c4616038-c137-4de2-9cd9-751ad92ded58}">

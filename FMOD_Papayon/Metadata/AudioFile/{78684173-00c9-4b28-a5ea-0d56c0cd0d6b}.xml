@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{78684173-00c9-4b28-a5ea-0d56c0cd0d6b}">
 		<property name="color">
-			<value>Cyan Light 1</value>
+			<value>Purple</value>
 		</property>
 		<property name="assetPath">
-			<value>AMB/Ambiants/SFX_LP_WINDAMB.wav</value>
+			<value>AMB/WIND/SFX_LP_WINDAMB.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{81b73e4b-bb70-47c4-bad8-9655d83ca199}">
+		<property name="color">
+			<value>Blue Light 2</value>
+		</property>
 		<property name="assetPath">
-			<value>Empty Loop/14 sc.wav</value>
+			<value>EMPTY LOOP/14 sc.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

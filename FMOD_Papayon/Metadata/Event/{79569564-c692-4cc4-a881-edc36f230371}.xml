@@ -2,16 +2,16 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{79569564-c692-4cc4-a881-edc36f230371}">
 		<property name="color">
-			<value>Green Light 1</value>
+			<value>Yellow</value>
 		</property>
 		<property name="name">
-			<value>Footsteps</value>
+			<value>PLAYER_FTSP</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{22d6b22b-a7c0-41f9-acf0-a5d572c1f073}</destination>
+			<destination>{b0349883-3000-44bc-acb4-35ee74c7463a}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{e41d2b3c-90f4-4cbd-b1b2-ddd6deaf0e0d}</destination>
@@ -39,7 +39,7 @@
 			<destination>{0d7bcf33-8604-4d19-afd9-b7c5cf18064e}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{a65cb55d-fe26-4cfc-ae6f-8c84fd33aa7f}</destination>
+			<destination>{ca65da3a-fdfb-43bc-8318-38488be17c9e}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{e41d2b3c-90f4-4cbd-b1b2-ddd6deaf0e0d}">

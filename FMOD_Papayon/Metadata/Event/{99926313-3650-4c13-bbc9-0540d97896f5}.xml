@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{99926313-3650-4c13-bbc9-0540d97896f5}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<property name="name">
-			<value>Wind</value>
+			<value>AMB_WIND_1</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

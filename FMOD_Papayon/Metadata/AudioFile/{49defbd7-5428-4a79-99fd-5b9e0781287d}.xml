@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{49defbd7-5428-4a79-99fd-5b9e0781287d}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="assetPath">
-			<value>SFX/Footstep/Sand/SD_OS_FTPSSAND_ 14-Audio.wav</value>
+			<value>PLAYER/FTSP/Sand/SD_OS_FTPSSAND_ 14-Audio.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

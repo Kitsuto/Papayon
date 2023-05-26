@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Bank" id="{5ebef3a5-bc18-4ee7-97ba-e908262bb870}">
 		<property name="color">
-			<value>Cyan</value>
+			<value>Purple</value>
 		</property>
 		<property name="name">
-			<value>Ambiant</value>
+			<value>AMB</value>
 		</property>
 		<relationship name="folder">
 			<destination>{d3c86211-a29a-43d8-8efa-83b12d2d4862}</destination>

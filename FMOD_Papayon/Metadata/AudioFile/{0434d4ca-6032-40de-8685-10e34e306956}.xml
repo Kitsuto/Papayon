@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0434d4ca-6032-40de-8685-10e34e306956}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="assetPath">
-			<value>SFX/Footstep/Wood/SD_OS_FTPSWOOD_ 39-Audio.wav</value>
+			<value>PLAYER/FTSP/Wood/SD_OS_FTPSWOOD_ 39-Audio.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

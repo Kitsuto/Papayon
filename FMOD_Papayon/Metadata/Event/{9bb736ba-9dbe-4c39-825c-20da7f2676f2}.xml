@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9bb736ba-9dbe-4c39-825c-20da7f2676f2}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<property name="name">
-			<value>Birds</value>
+			<value>AMB_BIRDS</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{650218c0-a6e8-4995-9308-c9027d7dcbb7}</destination>
+			<destination>{d0a90706-b265-484f-8d7d-88fba1166b79}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{609e3192-dd18-438c-bf98-e97f791bf757}</destination>

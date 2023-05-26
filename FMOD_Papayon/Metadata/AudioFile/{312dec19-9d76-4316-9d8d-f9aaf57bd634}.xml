@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{312dec19-9d76-4316-9d8d-f9aaf57bd634}">
 		<property name="color">
-			<value>Green Light 1</value>
+			<value>Yellow</value>
 		</property>
 		<property name="assetPath">
-			<value>SFX/BugsNet/Hit/SFX_OS_STRINGHIT_3.wav</value>
+			<value>PLAYER/NETSWEEP/Hit/SFX_OS_STRINGHIT_3.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

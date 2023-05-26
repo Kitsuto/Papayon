@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{8eaca42f-a9c6-4a8a-aeed-bc08afc1beb4}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<property name="assetPath">
-			<value>AMB/Animals/Birds/Oiseaux32.wav</value>
+			<value>AMB/BIRDS/Oiseaux32.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

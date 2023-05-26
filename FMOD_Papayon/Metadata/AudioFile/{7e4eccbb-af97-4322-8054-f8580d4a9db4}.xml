@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7e4eccbb-af97-4322-8054-f8580d4a9db4}">
 		<property name="color">
-			<value>Green Light 1</value>
+			<value>Yellow</value>
 		</property>
 		<property name="assetPath">
-			<value>SFX/Footstep/Grass/SFX_OS_DIRTFTPS__1.wav</value>
+			<value>PLAYER/FTSP/Grass/SFX_OS_DIRTFTPS__1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

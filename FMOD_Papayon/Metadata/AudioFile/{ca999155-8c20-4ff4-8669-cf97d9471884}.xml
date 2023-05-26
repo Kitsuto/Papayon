@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ca999155-8c20-4ff4-8669-cf97d9471884}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<property name="assetPath">
-			<value>Watercourse/SFX_LP_AMB_WATERCOURSE.wav</value>
+			<value>AMB/WATERCOURSE/SFX_LP_AMB_WATERCOURSE.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{3930a339-2e80-469a-ad85-9cf2711eb70e}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
-			<value>Flies Swarm</value>
+			<value>ANM_FLIES</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{650218c0-a6e8-4995-9308-c9027d7dcbb7}</destination>
+			<destination>{a88331ef-db0d-4ae3-b0f6-025ef886d411}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{28e8ad8e-e1b0-49e2-a17f-d589c38e6a4e}</destination>
@@ -32,7 +35,7 @@
 			<destination>{4f117cc6-31fc-48f4-97cd-78da71ba1c57}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{5ebef3a5-bc18-4ee7-97ba-e908262bb870}</destination>
+			<destination>{7e1e8ec3-fccc-4bc4-9ab8-384d7df7d531}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{28e8ad8e-e1b0-49e2-a17f-d589c38e6a4e}">

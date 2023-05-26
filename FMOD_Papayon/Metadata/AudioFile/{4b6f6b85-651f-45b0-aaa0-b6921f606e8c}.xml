@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{4b6f6b85-651f-45b0-aaa0-b6921f606e8c}">
+		<property name="color">
+			<value>Blue</value>
+		</property>
 		<property name="assetPath">
-			<value>SFX/Party Horn Sound Effect.wav</value>
+			<value>GPE/FOOTBALL/Party Horn Sound Effect.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="EncodableAsset" id="{f34ef31d-5484-46ab-bcf1-050dab219e5a}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="assetPath">
-			<value>AMB/Animals/Flies swarm/</value>
+			<value>ANIMALS/FLIES/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>

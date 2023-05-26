@@ -2,16 +2,16 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{19c61729-a2ba-4b4c-a1b2-e08108240e62}">
 		<property name="color">
-			<value>Green Light 1</value>
+			<value>Yellow</value>
 		</property>
 		<property name="name">
-			<value>NetSweep</value>
+			<value>PLAYER_NETSWEEP</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{088c52cd-69f3-4f3e-9762-bd96a8b9b777}</destination>
+			<destination>{b0349883-3000-44bc-acb4-35ee74c7463a}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{b1d9b3ce-bede-458b-9636-0413e4da0a12}</destination>
@@ -36,7 +36,7 @@
 			<destination>{bc8d9bd1-575b-4cac-bf3b-b424edab430f}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{a65cb55d-fe26-4cfc-ae6f-8c84fd33aa7f}</destination>
+			<destination>{ca65da3a-fdfb-43bc-8318-38488be17c9e}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{b1d9b3ce-bede-458b-9636-0413e4da0a12}">
