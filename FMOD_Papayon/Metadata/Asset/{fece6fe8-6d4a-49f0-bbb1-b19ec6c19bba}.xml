@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{fece6fe8-6d4a-49f0-bbb1-b19ec6c19bba}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
+		<property name="assetPath">
+			<value>PLAYER/DRAWINGS/PENCILS/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>
+		</relationship>
+	</object>
+</objects>
