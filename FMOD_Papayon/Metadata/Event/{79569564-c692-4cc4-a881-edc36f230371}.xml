@@ -8,7 +8,7 @@
 			<value>PLAYER_FTSP</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{b0349883-3000-44bc-acb4-35ee74c7463a}</destination>
@@ -225,6 +225,7 @@
 	<object class="MixerBusEffectChain" id="{4ba42f6f-e9eb-4969-8692-fe404baa7087}">
 		<relationship name="effects">
 			<destination>{8399edfd-6fe4-49af-b95b-84b798798006}</destination>
+			<destination>{0b2ff27f-7833-4f55-b6ff-f322041b313d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{903319c6-8acb-44f4-97d4-ac0d7d8f86b1}" />
@@ -459,6 +460,17 @@
 	</object>
 	<object class="MixerBusPanner" id="{95def77b-aff2-466d-b1b7-fc8e7f2921d4}" />
 	<object class="MixerBusFader" id="{8399edfd-6fe4-49af-b95b-84b798798006}" />
+	<object class="SpatialiserEffect" id="{0b2ff27f-7833-4f55-b6ff-f322041b313d}">
+		<property name="minimumDistance">
+			<value>5</value>
+		</property>
+		<property name="maximumDistance">
+			<value>50</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+	</object>
 	<object class="AutomationCurve" id="{318e95fc-4d7a-4bea-84a5-ed8a1049e259}">
 		<relationship name="parameter">
 			<destination>{28810036-4e6d-4410-975d-ba04b04c72e7}</destination>

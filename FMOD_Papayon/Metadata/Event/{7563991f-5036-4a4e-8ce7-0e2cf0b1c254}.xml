@@ -8,7 +8,7 @@
 			<value>AMB_BEACH</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{d0a90706-b265-484f-8d7d-88fba1166b79}</destination>
@@ -133,6 +133,7 @@
 	<object class="MixerBusEffectChain" id="{dcbb4307-0099-4a4a-b2ed-7f6bec0c8e30}">
 		<relationship name="effects">
 			<destination>{2e32b788-dbee-4045-a058-f731b42a0489}</destination>
+			<destination>{0117209a-4312-4376-902a-adfd9273ddc6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ea4492f7-ea91-46e1-bb32-5cb213e5e24d}" />
@@ -144,5 +145,16 @@
 	</object>
 	<object class="MixerBusPanner" id="{df901e02-f73c-4655-8895-ee85af20aadd}" />
 	<object class="MixerBusFader" id="{2e32b788-dbee-4045-a058-f731b42a0489}" />
+	<object class="SpatialiserEffect" id="{0117209a-4312-4376-902a-adfd9273ddc6}">
+		<property name="minimumDistance">
+			<value>5</value>
+		</property>
+		<property name="maximumDistance">
+			<value>80</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{70541763-ed0c-4feb-b26d-c9a073e7b52b}" />
 </objects>

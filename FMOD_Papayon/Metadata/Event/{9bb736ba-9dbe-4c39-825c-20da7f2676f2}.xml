@@ -656,9 +656,6 @@
 		<property name="overrideRange">
 			<value>true</value>
 		</property>
-		<property name="extentMode">
-			<value>1</value>
-		</property>
 		<property name="minimumExtent">
 			<value>268</value>
 		</property>
