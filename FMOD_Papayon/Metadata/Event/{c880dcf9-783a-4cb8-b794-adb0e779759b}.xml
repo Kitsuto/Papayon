@@ -178,6 +178,9 @@
 		<property name="minimumDistance">
 			<value>5</value>
 		</property>
+		<property name="maximumDistance">
+			<value>10</value>
+		</property>
 		<property name="overrideRange">
 			<value>true</value>
 		</property>
