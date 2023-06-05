@@ -56,7 +56,7 @@
 			<destination>{c3d79997-38a2-45ff-a68a-12e7168b833f}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{a33f2466-4094-4e64-b1a6-d907fdfb1b55}</destination>
+			<destination>{9df7e132-c33c-46f2-86ff-46676911ef01}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{d6ada6d5-b861-4d7e-b98d-fe0e0584ecfa}" />
@@ -189,9 +189,6 @@
 	<object class="SpatialiserEffect" id="{e1d3e8fb-10be-4dce-9c3a-0b0c4de0c034}">
 		<property name="minimumDistance">
 			<value>5</value>
-		</property>
-		<property name="maximumDistance">
-			<value>65</value>
 		</property>
 		<property name="overrideRange">
 			<value>true</value>

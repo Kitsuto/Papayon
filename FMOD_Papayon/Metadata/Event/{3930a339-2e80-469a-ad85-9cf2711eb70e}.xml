@@ -56,10 +56,14 @@
 			<destination>{0e61435d-a13e-47c4-a98c-9cd89e58f198}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{a33f2466-4094-4e64-b1a6-d907fdfb1b55}</destination>
+			<destination>{9df7e132-c33c-46f2-86ff-46676911ef01}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{91bb439d-bda9-4f71-b8a7-4bf0477c9ef3}" />
+	<object class="EventAutomatableProperties" id="{91bb439d-bda9-4f71-b8a7-4bf0477c9ef3}">
+		<property name="voiceStealing">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{7b425a60-c01c-4569-90da-eb45ed375c0b}" />
 	<object class="GroupTrack" id="{e672ac8d-6d44-41b0-ab5a-9c104622515f}">
 		<relationship name="modules">
@@ -160,9 +164,6 @@
 	<object class="MixerBusPanner" id="{c92f7d0a-c999-4509-a053-0a7287a36813}" />
 	<object class="MixerBusFader" id="{b200c2df-15b5-497b-9f35-8ff97ae05916}" />
 	<object class="SpatialiserEffect" id="{7feb5c1e-71b8-4603-8b56-0d1bfe13ad19}">
-		<property name="maximumDistance">
-			<value>15</value>
-		</property>
 		<property name="overrideRange">
 			<value>true</value>
 		</property>

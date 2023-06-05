@@ -56,7 +56,7 @@
 			<destination>{d568fdcc-00a6-47a2-a28d-b0ebd60c1028}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{a33f2466-4094-4e64-b1a6-d907fdfb1b55}</destination>
+			<destination>{9df7e132-c33c-46f2-86ff-46676911ef01}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{9eb0882b-18e8-451b-a360-2ca14c74324e}" />
@@ -150,7 +150,7 @@
 			<value>1</value>
 		</property>
 		<property name="maximumDistance">
-			<value>85</value>
+			<value>10</value>
 		</property>
 		<property name="overrideRange">
 			<value>true</value>
