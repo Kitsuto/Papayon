@@ -142,6 +142,9 @@
 		<property name="start">
 			<value>2</value>
 		</property>
+		<property name="volume">
+			<value>-12</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{6af744fa-5b37-42e8-b977-bb0eac6fc3eb}</destination>
 			<destination>{4b0cb08e-776a-473e-a9bd-5a46e63a770b}</destination>
@@ -157,6 +160,9 @@
 	<object class="MultiSound" id="{828a6ffe-7e68-4ead-8470-d938d7c67a46}">
 		<property name="start">
 			<value>3</value>
+		</property>
+		<property name="volume">
+			<value>-10</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{07ce04bd-1a9b-4cea-a61b-3ce803fce3a2}</destination>
@@ -176,6 +182,9 @@
 		<property name="start">
 			<value>4</value>
 		</property>
+		<property name="volume">
+			<value>-12</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{b86b86aa-5c26-427f-aa01-97c46ad5c07e}</destination>
 			<destination>{6050dadb-fba3-45cc-9402-3e88e71e3c3a}</destination>
@@ -191,6 +200,9 @@
 	<object class="MultiSound" id="{b82c100d-d9d6-41c6-a517-6447fb3bfe05}">
 		<property name="start">
 			<value>1</value>
+		</property>
+		<property name="volume">
+			<value>-12</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{3e45ec23-4103-4b45-82ff-9670a6a622e5}</destination>
