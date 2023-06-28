@@ -5,7 +5,7 @@
 			<value>Blue</value>
 		</property>
 		<property name="name">
-			<value>COCCINELLE</value>
+			<value>COCCINELLE ANIM 2</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -87,7 +87,7 @@
 	</object>
 	<object class="MultiSound" id="{9f539ef6-eacf-48ba-a039-0c11a4ceb188}">
 		<relationship name="sounds">
-			<destination>{9ae10acc-a56c-4716-bbf7-bf863090bbd5}</destination>
+			<destination>{c3fce1ec-9e46-4b6a-b1d5-27f2a249c7e9}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{187d273b-851a-4846-b549-9735f1ee2071}">
@@ -103,9 +103,9 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{4d0a3ac9-0a81-413a-bb41-bc3e8540b157}" />
-	<object class="SingleSound" id="{9ae10acc-a56c-4716-bbf7-bf863090bbd5}">
+	<object class="SingleSound" id="{c3fce1ec-9e46-4b6a-b1d5-27f2a249c7e9}">
 		<relationship name="audioFile">
-			<destination>{358aee2f-0345-4f69-9e44-1b54d8c2f18e}</destination>
+			<destination>{901e9b84-9f96-46f4-bf13-e4ce0457dd7b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{ad4a3c23-e63c-4ad5-8c7e-15fe19bf673f}" />

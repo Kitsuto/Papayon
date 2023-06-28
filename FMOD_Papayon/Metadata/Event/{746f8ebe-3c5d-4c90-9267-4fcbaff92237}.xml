@@ -5,7 +5,7 @@
 			<value>Blue</value>
 		</property>
 		<property name="name">
-			<value>SCARABEE</value>
+			<value>SCARABEE ANIM 1</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -87,7 +87,7 @@
 	</object>
 	<object class="MultiSound" id="{2d088233-f5c3-4e15-8e4a-ff4b1387b112}">
 		<relationship name="sounds">
-			<destination>{11819861-a5ff-4f0e-a0b9-d38da13552ac}</destination>
+			<destination>{27df0821-8444-4c6a-b326-a1d8b8069651}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{ca2eabe6-049c-428d-a449-d9f52c218386}">
@@ -103,9 +103,9 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c5c68f25-29d0-4c31-9dd5-34251e4f8361}" />
-	<object class="SingleSound" id="{11819861-a5ff-4f0e-a0b9-d38da13552ac}">
+	<object class="SingleSound" id="{27df0821-8444-4c6a-b326-a1d8b8069651}">
 		<relationship name="audioFile">
-			<destination>{5422c278-54f2-4395-879c-4846d351bfb7}</destination>
+			<destination>{a16f9c64-bc6e-45b8-bc28-fc5537b2f5dd}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{a6686924-c550-4fbf-98af-6511339c626e}" />

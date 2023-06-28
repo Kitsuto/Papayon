@@ -5,7 +5,7 @@
 			<value>Blue</value>
 		</property>
 		<property name="name">
-			<value>SAUTERELLES</value>
+			<value>SAUTERELLES ANIM 1</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -87,7 +87,7 @@
 	</object>
 	<object class="MultiSound" id="{205287e7-53d5-4b84-af30-65924621d8d5}">
 		<relationship name="sounds">
-			<destination>{56d8ab46-56de-4ace-8d08-ef531f870783}</destination>
+			<destination>{a8aa294d-dbba-4d9a-8446-6205e9f5f5bd}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{1910f28d-2808-4981-afba-fa9bff84ef77}">
@@ -103,9 +103,9 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{e7d767ab-5f72-4443-95a0-7d34dcdeca4f}" />
-	<object class="SingleSound" id="{56d8ab46-56de-4ace-8d08-ef531f870783}">
+	<object class="SingleSound" id="{a8aa294d-dbba-4d9a-8446-6205e9f5f5bd}">
 		<relationship name="audioFile">
-			<destination>{cc95f767-222b-44f3-8516-8df411da58a1}</destination>
+			<destination>{3672ff7b-4ba5-444d-a6b7-332afcf7a7cc}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{3cf35462-9d5b-42cb-ace9-996f82c20da2}" />

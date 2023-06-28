@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{901e9b84-9f96-46f4-bf13-e4ce0457dd7b}">
+		<property name="color">
+			<value>Blue</value>
+		</property>
+		<property name="assetPath">
+			<value>GPE/GPE INSECTS/Coccinelle ANIM 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.6250113378684805</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>
+		</relationship>
+	</object>
+</objects>

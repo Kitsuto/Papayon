@@ -5,7 +5,7 @@
 			<value>Blue</value>
 		</property>
 		<property name="name">
-			<value>PAPILLON</value>
+			<value>PAPILLON ANIM 1</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -87,7 +87,7 @@
 	</object>
 	<object class="MultiSound" id="{7d41e6d4-41b5-4ecf-bafd-ccac547dac1c}">
 		<relationship name="sounds">
-			<destination>{ddb1acc7-a0d8-4841-afdd-774bf4850f37}</destination>
+			<destination>{bb370806-2647-43fe-9842-e9b04ac16195}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{ee64e8e0-ff35-42b2-bd9f-b8c763ace5f4}">
@@ -103,9 +103,9 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ab56bf77-fd80-4791-bed0-8b233535a379}" />
-	<object class="SingleSound" id="{ddb1acc7-a0d8-4841-afdd-774bf4850f37}">
+	<object class="SingleSound" id="{bb370806-2647-43fe-9842-e9b04ac16195}">
 		<relationship name="audioFile">
-			<destination>{74fd8047-14c7-4ce7-834f-1b633eb176b7}</destination>
+			<destination>{7d763ea1-b092-4867-ae1e-92864860eb5a}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{63bb7429-d714-4d89-af27-721abd4aaa47}" />
