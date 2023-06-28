@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3f02798a-eb67-460d-b1bb-5584ccdaa179}">
+		<property name="assetPath">
+			<value>AMB/BEACH/PFS2_Fire_Campfire.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>17.142857142857142</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>
+		</relationship>
+	</object>
+</objects>
