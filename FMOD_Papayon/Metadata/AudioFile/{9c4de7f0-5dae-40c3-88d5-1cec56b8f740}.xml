@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{9336af8a-44f3-45b8-bab0-c669ca1944bc}">
+	<object class="AudioFile" id="{9c4de7f0-5dae-40c3-88d5-1cec56b8f740}">
 		<property name="color">
 			<value>Yellow</value>
 		</property>
 		<property name="assetPath">
-			<value>PLAYER/GIBBERISH/SND_TXT1.wav</value>
+			<value>PLAYER/GIBBERISH/SD_OS_PLAYER_GIBERISH_V2_08.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.7142857142857142</value>
+			<value>2.3125170068027212</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>

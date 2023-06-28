@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{9336af8a-44f3-45b8-bab0-c669ca1944bc}">
+	<object class="AudioFile" id="{74fd8047-14c7-4ce7-834f-1b633eb176b7}">
 		<property name="color">
-			<value>Yellow</value>
+			<value>Red</value>
 		</property>
 		<property name="assetPath">
-			<value>PLAYER/GIBBERISH/SND_TXT1.wav</value>
+			<value>ANIMALS/5 INSECTS/Pappillon.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.7142857142857142</value>
+			<value>10</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>

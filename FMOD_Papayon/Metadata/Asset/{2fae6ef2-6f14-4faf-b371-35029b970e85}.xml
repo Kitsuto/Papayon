@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="EncodableAsset" id="{6e113e69-945e-40ba-9354-4d6ad591b32e}">
+	<object class="EncodableAsset" id="{2fae6ef2-6f14-4faf-b371-35029b970e85}">
 		<property name="color">
-			<value>Yellow</value>
+			<value>Green</value>
 		</property>
 		<property name="assetPath">
-			<value>PLAYER/GIBBERISH/</value>
+			<value>UI/UI Surround/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>

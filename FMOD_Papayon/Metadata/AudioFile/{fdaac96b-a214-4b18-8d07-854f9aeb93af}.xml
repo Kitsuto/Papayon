@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{9336af8a-44f3-45b8-bab0-c669ca1944bc}">
-		<property name="color">
-			<value>Yellow</value>
-		</property>
+	<object class="AudioFile" id="{fdaac96b-a214-4b18-8d07-854f9aeb93af}">
 		<property name="assetPath">
-			<value>PLAYER/GIBBERISH/SND_TXT1.wav</value>
+			<value>UI/UI Surround/SD_OS_UI_SUROUND 4-MUI TEXT High Counter.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -14,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.7142857142857142</value>
+			<value>0.12501133786848073</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>

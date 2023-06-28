@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{9336af8a-44f3-45b8-bab0-c669ca1944bc}">
+	<object class="AudioFile" id="{112ab5b8-4e6a-45b6-bee6-fcae0feb392f}">
 		<property name="color">
-			<value>Yellow</value>
+			<value>Green</value>
 		</property>
 		<property name="assetPath">
-			<value>PLAYER/GIBBERISH/SND_TXT1.wav</value>
+			<value>UI/Son_Validate.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>1.7142857142857142</value>
+			<value>0.966530612244898</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{726d36ae-6cd2-497d-b475-15e27beef02d}</destination>

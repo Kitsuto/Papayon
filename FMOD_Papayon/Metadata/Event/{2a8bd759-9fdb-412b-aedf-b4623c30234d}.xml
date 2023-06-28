@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{2a8bd759-9fdb-412b-aedf-b4623c30234d}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="name">
 			<value>PLAYER_GIBBERISH_PROTO</value>
 		</property>
