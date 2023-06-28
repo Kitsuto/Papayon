@@ -131,6 +131,9 @@
 		<property name="isCutoff">
 			<value>true</value>
 		</property>
+		<property name="volume">
+			<value>8</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{9fb04268-2a96-4c76-957d-1bac48eaf479}</destination>
 			<destination>{62834c4b-1bdf-4acd-84c3-1af117dad100}</destination>
@@ -143,7 +146,7 @@
 			<value>2</value>
 		</property>
 		<property name="volume">
-			<value>-12</value>
+			<value>-7</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{6af744fa-5b37-42e8-b977-bb0eac6fc3eb}</destination>
@@ -162,7 +165,7 @@
 			<value>3</value>
 		</property>
 		<property name="volume">
-			<value>-10</value>
+			<value>-6</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{07ce04bd-1a9b-4cea-a61b-3ce803fce3a2}</destination>
@@ -202,7 +205,7 @@
 			<value>1</value>
 		</property>
 		<property name="volume">
-			<value>-12</value>
+			<value>-7.5</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{3e45ec23-4103-4b45-82ff-9670a6a622e5}</destination>
